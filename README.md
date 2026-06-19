@@ -1,4 +1,4 @@
-# Hybrid Identity and Access Management Lab
+# SKCorp-IAM-Operations-Access-Governance-Lab
 
 ## Project Overview
 
